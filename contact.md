@@ -4,7 +4,7 @@ layout: contact
 description: Contact
 ---
 
-Please feel free to contact us anytime for your IT, Electrical or Mechatronics requirements.
+Please feel free to contact us any time for your IT, Electrical or Mechatronics requirements.
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
