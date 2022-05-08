@@ -2,7 +2,7 @@
 title: Bussiness Edge
 layout: home
 description: Tailor-made technology products, solutions and services
-intro_image: "images/illustrations/datacenter_engineer.svg"
+intro_image: "images/illustrations/home.svg"
 logotype: "images/logo/logotype.png"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true

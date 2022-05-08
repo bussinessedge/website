@@ -1,8 +1,8 @@
 ---
-title: Services
+title: Solutions
 layout: services
-description: Services
-intro_image: "images/illustrations/reading.svg"
+description: Solutions that grow with your business
+intro_image: "images/illustrations/solutions.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
