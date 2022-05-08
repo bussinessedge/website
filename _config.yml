@@ -7,8 +7,8 @@ logo:
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/logo/logomark.png"
-  desktop_height: "48px"
-  desktop_width: "48px"
+  desktop_height: "64px"
+  desktop_width: "64px"
 
 collections:
   services:
