@@ -4,7 +4,7 @@ layout: home
 description: Tailor-made technology products, solutions and services
 intro_image: "images/illustrations/home.svg"
 logotype: "images/logo/logotype.png"
-intro_image_absolute: false
+intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: false
 ---
