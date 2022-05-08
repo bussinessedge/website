@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 show_call_box: false
 ---
 
-![bussiness-edge-logo](/images/logo/logotype.jpg)
+![bussiness-edge-logo](images/logo/logotype.jpg)
 
 We understand your information technology needs and provide tailor-made products, solutions and services to deliver value by all
 means necessary.
