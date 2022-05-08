@@ -1,0 +1,9 @@
+---
+title: "Data Capture Solutions"
+date: 2018-11-28T15:14:54+10:00
+featured: true
+weight: 5
+layout: service
+---
+
+Bar Code Scanners, Bar Code Readers, RFID Tags, Bar Code Labels & Stickers
